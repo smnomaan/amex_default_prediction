@@ -6,5 +6,5 @@
 # Soution:
 - Feature engineering
 - XGBoost and LGBM (dart mode) as base layer models
-- Staked with XGBoost/LGBM at layer two
+- Stacked with XGBoost/LGBM at layer two
 - bagged ensemble
